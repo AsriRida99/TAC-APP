@@ -4,6 +4,16 @@ Demo of the **TAC** (*Thesaurus Automation & Curation*) interface: an applicatio
 thesauri for cultural heritage, where a curator stays in control of every proposal made by a language model
 (concept generation, thesaurus assignment, alignments, export).
 
+## Team
+- Rida Asri
+- John Samuel
+- Violette Abergel
+- Anaïs Guillem
+- Kévin Réby
+- Gilles Gesquière
+- Miled Rousset
+- Olivier Malavergne
+
 > **⚠️ This repository is a demo only.**
 >
 > - **The core code is not published.** The Hybrid RAG engine (vector databases, knowledge graph, reranker),
